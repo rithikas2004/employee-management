@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "photo": "https://via.placeholder.com/150",
+      "email": "johndoe@example.com",
+      "mobileNumber": "1234567890",
+      "address": "123 Main St, Cityville",
+      "role": "Software Engineer",
+      "experience": "3 years",
+      "online": true,
+      "linkedInId": "johndoe",
+      "githubId": "johndoe123",
+      "maritalStatus": "single",
+      "employeeId": "E001",
+      "gender": "male",
+      "salary": "50000",
+      "dateOfBirth": "1990-01-01",
+      "department": "Engineering",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "photo": "https://via.placeholder.com/150",
+      "email": "janesmith@example.com",
+      "mobileNumber": "0987654321",
+      "address": "456 Side St, Townsville",
+      "role": "Project Manager",
+      "experience": "5 years",
+      "online": false,
+      "linkedInId": "janesmith",
+      "githubId": "janesmith456",
+      "maritalStatus": "married",
+      "employeeId": "E002",
+      "gender": "female",
+      "salary": "70000",
+      "dateOfBirth": "1988-05-15",
+      "department": "Management",
+      "password": "securepassword"
+    }
+  ]
+}
